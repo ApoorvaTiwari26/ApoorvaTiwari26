@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on blockchain technology
+- 🌱 I’m currently learning Solidity Language
 <!--
 **ApoorvaTiwari26/ApoorvaTiwari26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
