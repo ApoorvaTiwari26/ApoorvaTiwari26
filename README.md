@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Computer Science graduate from Bhilai Institute of Technology with a love for building innovative solutions through code. I thrive on problem-solving, turning data into actionable insights, and creating engaging user experiences.
+I'm a passionate Computer Science graduate with a love for building innovative solutions through code. I thrive on problem-solving, turning data into actionable insights, and creating engaging user experiences.
 
 **🎯 What I'm passionate about:**
 - Data Analysis & Visualization
