@@ -32,10 +32,9 @@ An intelligent platform that leverages Google Gemini LLM to automate social medi
 - **Tech:** Python, JavaScript, HTML/CSS, Gemini API
 - **Impact:** Streamlined content creation with interactive frontend and seamless API integration
 
-### Number Comprehender - Double-Digit Classification System
-A deep learning CNN model that classifies handwritten double-digit numbers with 98.549% accuracy.
-- **Tech:** Python, CNN, Keras, TensorFlow, MNIST
-- **Achievement:** 100-class multiclass classification with exceptional accuracy
+### Feel Better - the Mental Health Betterment Site
+ Website focused on spreading mental health awareness and helping users improve their well-being.
+- **Tech:** HTML, CSS, JavaScript
 
 ## 📫 Let's Connect! [📧 Email](mailto:tiwari26.apoorva@gmail.com)
 
