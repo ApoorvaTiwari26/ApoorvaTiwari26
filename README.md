@@ -32,9 +32,11 @@ An intelligent platform that leverages Google Gemini LLM to automate social medi
 - **Tech:** Python, JavaScript, HTML/CSS, Gemini API
 - **Impact:** Streamlined content creation with interactive frontend and seamless API integration
 
+
 ### Feel Better - the Mental Health Betterment Site
  Website focused on spreading mental health awareness and helping users improve their well-being.
 - **Tech:** HTML, CSS, JavaScript
+
 
 ## 📫 Let's Connect! [📧 Email](mailto:tiwari26.apoorva@gmail.com)
 
