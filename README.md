@@ -38,9 +38,6 @@ A deep learning CNN model that classifies handwritten double-digit numbers with 
 - **Achievement**: 100-class multiclass classification with exceptional accuracy
 
 
-
-
-
 ## 📫 Let's Connect! [📧 Email](mailto:tiwari26.apoorva@gmail.com)
 
 
