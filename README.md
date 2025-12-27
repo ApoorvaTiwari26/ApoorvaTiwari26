@@ -27,6 +27,12 @@ I'm a passionate Computer Science graduate with a love for building innovative s
 
 ## 🛠️ Check out my projects
 
+### Yoova.AI – The AI-Powered Social Media Content Generator
+A full-stack web application that automates social media content creation using AI-generated responses.
+- **Tech:** React.js, Tailwind CSS, Firebase
+- **Achievement:** Enabled secure authentication, AI-based content generation with hashtags and emojis, and content history management through a responsive interface.
+
+
 ### Feel Better - the Mental Health Betterment Site
  Website focused on spreading mental health awareness and helping users improve their well-being.
 - **Tech:** HTML, CSS, JavaScript
