@@ -11,13 +11,13 @@ I'm a passionate Computer Science graduate with a love for building innovative s
 
 ## 💻 Tech Stack
 
-**Languages:** C | Python | JavaScript | SQL
+**Languages:** C | Python | SQL | C++
 
 **Frameworks & Libraries:** React.js
 
-**Web Technologies:** HTML5 | CSS3
+**Web Technologies:** HTML5 | CSS3 | JavaScript
 
-**Tools & Platforms:** Git | GitHub | PostgreSQL
+**Tools & Platforms:** Git | PostgreSQL
 
 **OS:** Windows | Linux
 
