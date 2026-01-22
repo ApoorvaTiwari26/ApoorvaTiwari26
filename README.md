@@ -11,11 +11,13 @@ I'm a passionate Computer Science graduate with a love for building innovative s
 
 ## 💻 Tech Stack
 
-**Languages:** Python | JavaScript | C | Java | HTML5 | CSS3 | SQL
+**Languages:** C | Python | JavaScript | SQL
 
-**Frameworks & Libraries:** Pandas | NumPy | Scikit-learn | Keras | TensorFlow
+**Frameworks & Libraries:** React.js
 
-**Tools & Platforms:** Git | Jupyter Notebook | PostgreSQL | Power BI | Tableau
+**Web Technologies:** HTML5 | CSS3
+
+**Tools & Platforms:** Git | GitHub | PostgreSQL
 
 **OS:** Windows | Linux
 
@@ -29,7 +31,7 @@ I'm a passionate Computer Science graduate with a love for building innovative s
 
 ### Yoova.AI – The AI-Powered Social Media Content Generator
 A full-stack web application that automates social media content creation using AI-generated responses.
-- **Tech:** React.js, Tailwind CSS, Firebase
+- **Tech:** HTML, CSS, JS (React.js), Tailwind CSS
 - **Achievement:** Enabled secure authentication, AI-based content generation with hashtags and emojis, and content history management through a responsive interface.
 
 
